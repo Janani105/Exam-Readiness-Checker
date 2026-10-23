@@ -110,3 +110,5 @@ This opens the app in your browser (usually at `http://localhost:8501`).
 - Always run `generate_dataset.py` and `train_models.py` **before**
   `streamlit run app.py`, otherwise the app will show a friendly warning
   message instead of crashing.
+# Exam-Readiness-Checker
+An AI-powered Exam Readiness Checker built using Python, Streamlit, and Random Forest Machine Learning to assess students' exam preparedness and provide insights to help them improve their learning and performance.
